@@ -1,31 +1,31 @@
 <Task type="RT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
   <Point type="Start">
-    <Waypoint name="Finish 07" id="0" comment="" altitude="1100.0">
-      <Location longitude="1.8567333" latitude="42.38475"/>
+    <Waypoint name="Cerdanya" id="0" comment="" altitude="2500.0">
+      <Location longitude="1.8638833" latitude="42.3875"/>
     </Waypoint>
-    <ObservationZone type="Line" length="10000.0"/>
+    <ObservationZone type="Line" length="5000.0"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="E25/Sort" id="0" comment="" altitude="750.0">
-      <Location longitude="1.11805" latitude="42.38695"/>
-    </Waypoint>
-    <ObservationZone type="Cylinder" radius="500.0"/>
-  </Point>
-  <Point type="Turn">
-    <Waypoint name="Boumort" id="0" comment="" altitude="2077.0">
-      <Location longitude="1.1386167" latitude="42.2316667"/>
+    <Waypoint name="Collcanto" id="0" comment="" altitude="1894.0">
+      <Location longitude="1.2336167" latitude="42.37695"/>
     </Waypoint>
     <ObservationZone type="Cylinder" radius="500.0"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="Font Romeu" id="0" comment="" altitude="1740.0">
-      <Location longitude="2.0411167" latitude="42.5038833"/>
+    <Waypoint name="Antena And" id="0" comment="" altitude="2500.0">
+      <Location longitude="1.4622167" latitude="42.5063833"/>
     </Waypoint>
     <ObservationZone type="Cylinder" radius="500.0"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="Bellver" id="0" comment="" altitude="1100.0">
-      <Location longitude="1.7822167" latitude="42.3475"/>
+    <Waypoint name="Mont Louis" id="0" comment="" altitude="1595.0">
+      <Location longitude="2.1208333" latitude="42.5088833"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="500.0"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="Clldatsses" id="0" comment="" altitude="1765.0">
+      <Location longitude="1.9908333" latitude="42.3338833"/>
     </Waypoint>
     <ObservationZone type="Cylinder" radius="500.0"/>
   </Point>
@@ -42,10 +42,10 @@
     <ObservationZone type="Cylinder" radius="500.0"/>
   </Point>
   <Point type="Finish">
-    <Waypoint name="Finish 25" id="0" comment="" altitude="1100.0">
-      <Location longitude="1.8690667" latitude="42.38925"/>
+    <Waypoint name="Cerdanya" id="0" comment="" altitude="1200.0">
+      <Location longitude="1.8638833" latitude="42.3875"/>
     </Waypoint>
-    <ObservationZone type="Line" length="1000.0"/>
+    <ObservationZone type="Line" length="500.0"/>
   </Point>
 </Task>
 
